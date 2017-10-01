@@ -10,7 +10,7 @@ end
 gem 'foreman'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.7'
-gem 'rails', '~> 5.1.0'
+gem 'rails', '~> 5.1.4'
 
 # Assets
 gem 'bootstrap-sass'
